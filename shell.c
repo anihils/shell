@@ -1,6 +1,5 @@
 /*
  * Command line interpreter on top of Unix.
- * Run <shell help.me> for command use.
 */
 
 #include <string.h>
